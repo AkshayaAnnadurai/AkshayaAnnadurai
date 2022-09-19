@@ -1,11 +1,22 @@
+<h1 align="center">Hey there 👋</h1>
+<h3 align="center">I'm <a href="https://github.com/Jasmine-Shaikh">Akshaya Annadurai</a> and I like to code.</h3>
+
 <div align="center">
 <img  height = "400px" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<div size='20px'> Hi! My name is Akshaya Annadurai. Thank You for taking the time to view my GitHub Profile :smile:.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.
-</div>
+<p align="center">
+It all started with { console.log("Hello World") }  and I've never looked back ever since.
+<br/>
+ <br/>
+I have always wished to do something where I could feed my passion for both Creation and Logic. Just before I almost had an existential crisis in search of the Mr.Perfect_Career, I landed on Software Development which had just the right amount of Creativity and Logic. Also, 'Debugging' , the right amount of paranoia 🙃. Creating stuff using technology that solves a real-world problem. Honestly, could it get any better😍. Fast forward, and I am a Full-Stack web developer now 👩‍💻 exploring and trying to learn something new every day about the world of "Hello World".
+ <br/>
+ <br/>
+Also, when I am not coding, I enjoy literature, music, travelling(especially to places with good food), volunteering and everything that gives me an adrenaline rush.
+</p>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
