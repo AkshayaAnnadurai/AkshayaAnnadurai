@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm <a href="https://github.com/Jasmine-Shaikh">Akshaya Annadurai</a> and I like to code.</h3>
+<h3 align="center">I'm <a href="https://github.com/AkshayaAnnadurai">Akshaya Annadurai</a> and I like to code.</h3>
 
 <div align="center">
 <img  height = "400px" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" alt="cover" />
