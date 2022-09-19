@@ -41,8 +41,8 @@ Also, when I am not coding, I enjoy literature, music, travelling(especially to 
 <a href= https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png'> </a>
 <a href= https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=redux&sort= > <img width ='32px' src ='https://tse1.mm.bing.net/th?id=OIP.yPRN87C9vjrdtIBY7UTAiAHaGs&pid=Api&P=0'> </a>
 <a href= https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://tse4.mm.bing.net/th?id=OIP.txPPpKqWC6V6aRqGzTJUDQAAAA&pid=Api&P=0'> </a>
-<a href= https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://akshayaannadurai.github.io/skills/express.svg'> </a>
-<a href=https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://akshayaannadurai.github.io/skills/node.svg'> </a>
+<a href= https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://tse4.mm.bing.net/th?id=OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL&pid=Api&P=0'> </a>
+<a href=https://github.com/AkshayaAnnadurai?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://tse2.mm.bing.net/th?id=OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ&pid=Api&P=0'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
