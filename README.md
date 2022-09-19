@@ -47,7 +47,7 @@ Also, when I am not coding, I enjoy literature, music, travelling(especially to 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/akshaya-annadurai-629916191/'> <img width = '32px' align= 'center' src="https://tse4.mm.bing.net/th?id=OIP.Pf90JumdA6WWszvFFKenCQHaHa&pid=Api&P=0"/></a> 
-<a href = 'https://github.com/AkshayaAnnadurai'> <img width = '32px' align= 'center' src="https://tse3.mm.bing.net/th?id=OIP.Of28FZsrbzSrI4VlQA7BAQHaEK&pid=Api&P=0"/></a> 
+<a href = 'https://github.com/AkshayaAnnadurai'> <img width = '50px' align= 'center' src="https://tse3.mm.bing.net/th?id=OIP.Of28FZsrbzSrI4VlQA7BAQHaEK&pid=Api&P=0"/></a> 
 
 
 
