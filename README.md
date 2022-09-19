@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" alt="cover" />
+<img  height = "400px" src="https://c.tenor.com/Bgi_54meeiMAAAAC/anime-typing.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,6 +16,7 @@
 
 - 🌱 I’m currently learning MERN stack
 
+- 📫 How to reach me: **akshaysrij@gmail.com**
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
